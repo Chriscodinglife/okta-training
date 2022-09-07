@@ -1,0 +1,4 @@
+login,firstName,lastName,middleName,honorificPrefix,honorificSuffix,email,title,displayName,nickName,profileUrl,secondEmail,mobilePhone,primaryPhone,streetAddress,city,state,zipCode,countryCode,postalAddress,preferredLanguage,locale,timezone,userType,employeeNumber,costCenter,organization,division,department,managerId,manager,$importStatus
+aa@aa.aa,aa,aa,,,,aa@aa.aa,,,,,,,,,,,,,,,,,,,,,,,,,Success
+bb,bb,bb,,,,bb@bb.bb,,,,,,,,,,,,,,,,,,,,,,,,,Error(s) - login: Username must be in the form of an email address; 
+cc@cc.cc,cc,cc,,,,cc@cc.cc,,,,,,,,,,,,,,,,,,,,,,,,,Success

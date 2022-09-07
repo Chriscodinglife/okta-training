@@ -1,2 +1,2 @@
-# okta-training
-Some general docs for my okta training
+# Okta Essentials Training
+Some general docs for okta training
